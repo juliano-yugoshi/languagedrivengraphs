@@ -1,4 +1,4 @@
-# Language-Driven Graphs for Short Video Similarity
+# Code for Short Video Similarity using Graph Representations
 
 ![Project Banner](figures/result_graph.png)
 
