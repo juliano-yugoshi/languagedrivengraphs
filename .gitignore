@@ -40,10 +40,14 @@ Thumbs.db
 # EXCEÇÕES: 
 
 !MSRVTT_dados_compilados_com_features.xlsx
+!MSRVTT_dados_compilados_com_features.csv
+!MSRVTT_dados_textuais_compilados.csv
+!MSRVTT_descricoes_finais.csv
+!MSRVTT_SEQ_FEATURES_MEAN.npy
 !train_val_videodatainfo.json
-!test_videodatainfo.json
-!videos_com_erro.csv
-!all_video_captions.csv
+
+
+
 
 # Pastas de dados e features grandes (já estão no Drive, mas é bom garantir)
 /Keyframes/
