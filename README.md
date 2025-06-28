@@ -1,6 +1,6 @@
 # Language-Driven Graphs for Short Video Similarity
 
-![Project Banner](figures/result_graph_legend_fixed.png)
+![Project Banner](figures/result_graphpng)
 
 *Final comparison of the semantic cohesion of similarity graphs built from human descriptions, AI-generated (LLM) descriptions, and pure visual features (CLIP).*
 
