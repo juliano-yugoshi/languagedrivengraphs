@@ -33,10 +33,7 @@ The process is divided into two Jupyter Notebooks, designed to be run sequential
     git clone https://github.com/anonymous-1-2/languagedrivengraphs.git
 
 2.  **Create the Project Folder in Your Google Drive:**
-    In the root of your Google Drive (`My Drive`), create the following folder structure:
-- My Drive/
-         └── D/
-             └── Dataset/
+    In the root of your Google Drive (`My Drive`), create the following folder structure: My Drive/D/Dataset/
 
 3.  **Upload the Project Files:**
 Upload all `.ipynb`, `.csv`, `.xlsx` files and the `figures/` folder that you cloned from GitHub into the `My Drive/D/Dataset/` directory you just created.
