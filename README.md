@@ -14,14 +14,14 @@ This repository contains the code, processed data, and research results comparin
 
 ## Qualitative Results: Neighborhood Analysis
 
-To visually demonstrate the structural properties of each graph, we conducted a qualitative analysis of local node neighborhoods. The figures below show a 1-hop neighborhood for a "Cooking" and a "Sports" video, revealing a clear dichotomy between visual and text-based graphs.
+To visually demonstrate the structural properties of each graph, we conducted a qualitative analysis of local node neighborhoods. The figures below show a 1-hop neighborhood for a **"Music"** and a **"People"** video, revealing a clear dichotomy between visual and text-based graphs.
 
-The visual graphs (left column in each figure) show high local purity, connecting almost exclusively to same-category videos. In contrast, the text-based graphs (middle and right columns) capture richer, more abstract semantic connections. For instance, the text graphs link the "Cooking" video to "Vlog" and "People," and the "Sports" video to a conceptually related "Fail" video—connections that visual features alone cannot capture.
+The visual graphs (left column in each figure) show high local purity, connecting almost exclusively to same-category videos. This confirms that visual features excel at grouping content with consistent visual themes. In contrast, the text-based graphs (middle and right columns) capture richer, more abstract semantic connections. For instance, the text graphs link the "Music" video to conceptually related but visually distinct categories like performances or specific genres—connections that visual features alone cannot capture. The consistent neighborhood structures between the Human-Text and LLM-Text graphs reinforce that LLM-generated text effectively replicates the complex relational structure of human semantic understanding.
 
-![Cooking Video Neighborhood](figures/neighborhood_analysis_video1118.png)
+![Music Video Neighborhood](figures/neighborhood_analysis_video1118.png)
 *Figure 1: Neighborhood comparison for a "Music" anchor video.*
 
-![Sports Video Neighborhood](figures/nneighborhood_analysis_video2753.png)
+![People Video Neighborhood](figures/neighborhood_analysis_video2753.png)
 *Figure 2: Neighborhood comparison for a "People" anchor video.*
 
 ## Workflow and Execution
