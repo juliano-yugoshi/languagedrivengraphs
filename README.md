@@ -18,11 +18,11 @@ To visually demonstrate the structural properties of each graph, we conducted a 
 
 The visual graphs (left column in each figure) show high local purity, connecting almost exclusively to same-category videos. In contrast, the text-based graphs (middle and right columns) capture richer, more abstract semantic connections. For instance, the text graphs link the "Cooking" video to "Vlog" and "People," and the "Sports" video to a conceptually related "Fail" video—connections that visual features alone cannot capture.
 
-![Cooking Video Neighborhood](figures/neighborhood_cooking_video3236.png)
-*Figure 1: Neighborhood comparison for a "Cooking" anchor video.*
+![Cooking Video Neighborhood](figures/neighborhood_analysis_video1118.png)
+*Figure 1: Neighborhood comparison for a "Music" anchor video.*
 
-![Sports Video Neighborhood](figures/neighborhood_sports_video3767.png)
-*Figure 2: Neighborhood comparison for a "Sports" anchor video.*
+![Sports Video Neighborhood](figures/nneighborhood_analysis_video2753.png)
+*Figure 2: Neighborhood comparison for a "People" anchor video.*
 
 ## Workflow and Execution
 
