@@ -83,4 +83,4 @@ If you wish to run Notebook 1 from scratch, also add shortcuts for the raw data:
 The main libraries are installed directly within the notebooks using `!pip install` commands. Key dependencies include: `transformers`, `torch`, `sentence-transformers`, `networkx`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, and `tqdm`.
 
 ## Author
-**GitHub:** https://github.com/anonymous-1-2
+
