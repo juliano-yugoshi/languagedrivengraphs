@@ -50,7 +50,7 @@ The process is divided into two Jupyter Notebooks, designed to be run sequential
 
 1.  **Clone the Repository to Your Local Machine:**
     ```bash  
-    git clone https://github.com/anonymous-1-2/video-similarity-code.git
+    git clone https://github.com/juliano-yugoshi/languagedrivengraphs.git
 
 2.  **Create the Project Folder in Your Google Drive:**
     In the root of your Google Drive (`My Drive`), create the following folder structure: My Drive/D/Dataset/
