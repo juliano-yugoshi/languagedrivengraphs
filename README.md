@@ -6,13 +6,10 @@
 
 ## Overview
 
-This repository contains the official code and data for the paper accepted at **ENIAC 2025**:
-
+# Authors
 > *Juliano Yugoshi¹², Ricardo Marcondes Marcacini¹*  
 > ¹Institute of Mathematical and Computer Sciences (ICMC), University of São Paulo (USP)  
 > ²Campus de Três Lagoas (CPTL), Federal University of Mato Grosso do Sul (UFMS)  
->
-> *To appear in the Proceedings of the Brazilian Conference on Artificial and Computational Intelligence (ENIAC), 2025.*
 
 This project investigates the effectiveness of different modalities in building similarity graphs for short videos. Using the **MSR-VTT** dataset, we construct and evaluate three types of graphs:
 
@@ -89,7 +86,5 @@ If you wish to run Notebook 1 from scratch, also add shortcuts for the raw data:
 ## Dependencies
 
 The main libraries are installed directly within the notebooks using `!pip install` commands. Key dependencies include: `transformers`, `torch`, `sentence-transformers`, `networkx`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, and `tqdm`.
-
-## Authors
 
 
